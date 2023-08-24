@@ -10,4 +10,4 @@ with col1:
 with col2:
     st.title("Jay Sim")
     content="I am a devops engineer"
-    st.write(content)
+    st.info(content)
