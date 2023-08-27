@@ -3,6 +3,7 @@ import ssl
 import certifi
 import os
 
+
 def send_email(message):
     host = "smtp.gmail.com"
     port = 465
